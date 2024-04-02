@@ -3,7 +3,7 @@
 Hi there, i'm Felipe Augusto!
 
 - 🔭 I'm currently not working, just looking for internships.
-- 🌱 I'm currently learning C, Javascript, HTML, CSS and entering the database area using SQL.
+- 🌱 I'm currently learning C, Python, Java, Javascript, HTML, CSS and entering the database area using SQL.
 - 📫 Contact me by email: feaugusto04@gmail.com
 
 ##
