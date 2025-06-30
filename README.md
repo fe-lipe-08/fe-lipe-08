@@ -2,8 +2,17 @@
 
 Hi there, i'm Felipe Augusto!
 
-- 🔭 Interning at Retail Pro Brasil
-- 🌱 I'm currently learning Python, Java, Javascript, HTML, CSS and entering the database area using SQL.
+- 🔭 Interning as a Systems Analyst at Retail Pro Brasil.
+  
+- 🌱 I’m currently expanding my skill set in:
+- Programming: Python, JavaScript, HTML, C & CSS  
+- Databases: SQL & MySQL  
+
+My background and experience include:
+- Software Support & Development  
+- Debugging & Troubleshooting
+  
+- System Architecture & Analysis  
 - 📫 Contact me by email: feaugusto04@gmail.com
 
 ##
